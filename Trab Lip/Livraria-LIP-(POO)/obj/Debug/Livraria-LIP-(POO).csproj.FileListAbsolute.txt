@@ -1,0 +1,14 @@
+C:\Users\Wemer\Desktop\Trab Lip\Livraria-LIP-(POO)\bin\Debug\Livraria-LIP-(POO).exe.config
+C:\Users\Wemer\Desktop\Trab Lip\Livraria-LIP-(POO)\bin\Debug\Livraria-LIP-(POO).exe
+C:\Users\Wemer\Desktop\Trab Lip\Livraria-LIP-(POO)\bin\Debug\Livraria-LIP-(POO).pdb
+C:\Users\Wemer\Desktop\Trab Lip\Livraria-LIP-(POO)\obj\Debug\Livraria-LIP-(POO).csprojAssemblyReference.cache
+C:\Users\Wemer\Desktop\Trab Lip\Livraria-LIP-(POO)\obj\Debug\Livraria-LIP-(POO).csproj.CoreCompileInputs.cache
+C:\Users\Wemer\Desktop\Trab Lip\Livraria-LIP-(POO)\obj\Debug\Livraria-LIP-(POO).exe
+C:\Users\Wemer\Desktop\Trab Lip\Livraria-LIP-(POO)\obj\Debug\Livraria-LIP-(POO).pdb
+C:\Users\Wemer\Documents\Sistemas de Informação\Trab Lip\Livraria-LIP-(POO)\bin\Debug\Livraria-LIP-(POO).exe.config
+C:\Users\Wemer\Documents\Sistemas de Informação\Trab Lip\Livraria-LIP-(POO)\bin\Debug\Livraria-LIP-(POO).exe
+C:\Users\Wemer\Documents\Sistemas de Informação\Trab Lip\Livraria-LIP-(POO)\bin\Debug\Livraria-LIP-(POO).pdb
+C:\Users\Wemer\Documents\Sistemas de Informação\Trab Lip\Livraria-LIP-(POO)\obj\Debug\Livraria-LIP-(POO).csprojAssemblyReference.cache
+C:\Users\Wemer\Documents\Sistemas de Informação\Trab Lip\Livraria-LIP-(POO)\obj\Debug\Livraria-LIP-(POO).csproj.CoreCompileInputs.cache
+C:\Users\Wemer\Documents\Sistemas de Informação\Trab Lip\Livraria-LIP-(POO)\obj\Debug\Livraria-LIP-(POO).exe
+C:\Users\Wemer\Documents\Sistemas de Informação\Trab Lip\Livraria-LIP-(POO)\obj\Debug\Livraria-LIP-(POO).pdb
